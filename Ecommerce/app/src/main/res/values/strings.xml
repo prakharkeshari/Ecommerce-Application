@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ecommerece</string>
+    <string name="agree">I Agree To The<u> Term And Conditions</u></string>
+    <string name="read_storage_permission_denied">Oops, you just denied the permission for storage. You can also allow it from settings.</string>
+    <string name="image_selection_failed">Image selection Failed!</string>
+    <string name="title_dashboard_Activity">DashboardActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_products">Products</string>
+    <string name="title_orders">Orders</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_product">add product</string>
+    <string name="title_product_details">PRODUCT DETAILS</string>
+    <string name="lbl_product_description">Product Description</string>
+    <string name="lbl_product_details_stock_quantity">Stock Quantity</string>
+    <string name="title_my_cart">MY CART</string>
+
+    <string name="no_cart_item_found">No item found in cart!</string>
+    <string name="lbl_subtotal">Subtotal</string>
+    <string name="lbl_shipping_charge">Shipping Charge</string>
+    <string name="lbl_total_amount">Total Amount</string>
+    <string name="btn_lbl_checkout">Checkout</string>
+    <string name="action_cart">My Cart</string>
+    <string name="lbl_out_of_stock">OUT OF STOCK</string>
+    <string name="msg_item_removed_successfully">Item removed successfully.</string>
+</resources>
